@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="images/Logo.png" width="200">
+  <img src="images/Logo.PNG" width="200">
 </div>
 
 **Table of content**
@@ -29,7 +29,7 @@ Enemies are coming from one direction and the player must place targets to get c
 # Visual Style
 Cartoony in various styles.
 
-<img src="images/screenshot.png" width="500">
+<img src="images/screenshot.PNG" width="500">
 
 # Player Objectives
 - Defeat incoming enemies
